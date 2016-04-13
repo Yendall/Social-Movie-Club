@@ -1,3 +1,9 @@
+/*
+* Name:			Max Yendall
+* Version:		2.0
+* Project:		Movie Social Club
+*/
+
 package au.com.airmaxstudios.maxyendall.assignmenttwo.Model;
 
 import android.util.Log;
@@ -6,13 +12,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import au.com.airmaxstudios.maxyendall.assignmenttwo.Controller.Adapters.MovieAdapter;
 import au.com.airmaxstudios.maxyendall.assignmenttwo.Controller.Adapters.PartyAdapter;
-/*
-Student Name:       Max Yendall
-Student Number:     s3436993
-Course:             Mobile Application Development
-Version:            2.0
-Project:            Movie Social Club
- */
+
 public class ModelSingleton {
 
     // Adapter hash map with ID linking

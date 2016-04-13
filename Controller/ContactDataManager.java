@@ -1,3 +1,9 @@
+/*
+* Name:			Max Yendall
+* Version:		2.0
+* Project:		Movie Social Club
+*/
+
 package au.com.airmaxstudios.maxyendall.assignmenttwo.Controller;
 
 import android.content.Context;
@@ -6,13 +12,7 @@ import android.database.Cursor;
 import android.provider.ContactsContract.CommonDataKinds.Email;
 import android.provider.ContactsContract.Contacts;
 import android.util.Log;
-/*
-Student Name:       Max Yendall
-Student Number:     s3436993
-Course:             Mobile Application Development
-Version:            2.0
-Project:            Movie Social Club
- */
+
 public class ContactDataManager {
 
     // Declare contact picker utilities and contexts

@@ -1,3 +1,9 @@
+/*
+* Name:			Max Yendall
+* Version:		2.0
+* Project:		Movie Social Club
+*/
+
 package au.com.airmaxstudios.maxyendall.assignmenttwo.Controller;
 
 import android.app.ActionBar;
@@ -22,13 +28,7 @@ import au.com.airmaxstudios.maxyendall.assignmenttwo.Model.LocalDatabaseSingleto
 import au.com.airmaxstudios.maxyendall.assignmenttwo.Model.ModelSingleton;
 import au.com.airmaxstudios.maxyendall.assignmenttwo.Model.Movie;
 import au.com.airmaxstudios.maxyendall.assignmenttwo.R;
-/*
-Student Name:       Max Yendall
-Student Number:     s3436993
-Course:             Mobile Application Development
-Version:            2.0
-Project:            Movie Social Club
- */
+
 public class MovieActivity extends Activity {
 
     LocalDatabaseSingleton mLocalDatabaseSingleton;

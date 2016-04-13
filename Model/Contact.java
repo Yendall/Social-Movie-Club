@@ -1,12 +1,11 @@
+/*
+* Name:			Max Yendall
+* Version:		2.0
+* Project:		Movie Social Club
+*/
+
 package au.com.airmaxstudios.maxyendall.assignmenttwo.Model;
 
-/*
-Student Name:       Max Yendall
-Student Number:     s3436993
-Course:             Mobile Application Development
-Version:            1.0
-Project:            Movie Social Club
- */
 public class Contact {
 
     private String displayName;

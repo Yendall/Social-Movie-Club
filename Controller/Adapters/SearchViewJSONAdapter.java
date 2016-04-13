@@ -1,3 +1,9 @@
+/*
+* Name:			Max Yendall
+* Version:		2.0
+* Project:		Movie Social Club
+*/
+
 package au.com.airmaxstudios.maxyendall.assignmenttwo.Controller.Adapters;
 
 import android.content.Context;

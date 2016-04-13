@@ -1,3 +1,9 @@
+/*
+* Name:			Max Yendall
+* Version:		2.0
+* Project:		Movie Social Club
+*/
+
 package au.com.airmaxstudios.maxyendall.assignmenttwo.Controller.Adapters;
 
 import android.app.ProgressDialog;
@@ -30,13 +36,6 @@ import au.com.airmaxstudios.maxyendall.assignmenttwo.R;
 
 import static android.graphics.BitmapFactory.decodeStream;
 import static android.os.Process.setThreadPriority;
-/*
-Student Name:       Max Yendall
-Student Number:     s3436993
-Course:             Mobile Application Development
-Version:            2.0
-Project:            Movie Social Club
- */
 
 /**
  * ArrayAdapter for displaying the movie list
